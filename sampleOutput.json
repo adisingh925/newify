@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ellen Francis, Adela Suliman, Rachel Pannett",
+            "title": "Nova Kakhovka dam live updates: Ukraine blames Russia as flooding prompts evacuations - The Washington Post",
+            "description": "Ukrainian President Volodymyr Zelensky blamed Russia after the Nova Kakhovka dam on the Dnieper river, not far from Kherson, was significantly damaged.",
+            "url": "https://www.washingtonpost.com/world/2023/06/06/russia-ukraine-war-news-dam/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FXOGE7VCDNPNJ3WVOPPD5W2B24.jpg&w=1440",
+            "publishedAt": "2023-06-06T10:19:26Z",
+            "content": "A major dam and hydroelectric power plant in southern Ukraine have been destroyed, unleashing flooding near the front lines on Tuesday. As water gushed from the facility on the Dnieper River, which s… [+458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Pilot of plane that crashed in Virginia was slumped over in cockpit - reports - BBC",
+            "description": "The wayward aircraft entered restricted airspace over the US capital before crashing in Virginia.",
+            "url": "https://www.bbc.com/news/world-us-canada-65814758",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DA5C/production/_130000955_a0c3eedf-f816-4fce-ac7d-9e752c18ea73.jpg",
+            "publishedAt": "2023-06-06T09:50:58Z",
+            "content": "Media caption, Watch: CCTV captures sonic boom from US fighter jets\r\nThe pilot of a private plane that was chased by fighter jets before crashing in Virginia was seen slumped over in the cockpit, US … [+3239 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Rob Picheta",
+            "title": "Here’s what you need to know about Prince Harry’s phone hacking trial - CNN",
+            "description": "Prince Harry is taking to the witness stand Tuesday as his years-long battle against Britain’s tabloid media reaches its most dramatic stage so far.",
+            "url": "https://www.cnn.com/2023/06/06/uk/prince-harry-phone-hacking-trial-tuesday-gbr-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230601095137-prince-harry-court-file-032723.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T09:22:00Z",
+            "content": "Prince Harry is taking to the witness stand Tuesday as his years-long battle against Britains tabloid media reaches its most dramatic stage so far.\r\nFollow live updates from the courtroom here.\r\nThe … [+5966 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Those Binance charges in full (updated) - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/7f302fb4-592c-4013-ad23-f1cfe3f1634e",
+            "urlToImage": null,
+            "publishedAt": "2023-06-06T09:04:55Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nikkei.com"
+            },
+            "author": "Staff Writer",
+            "title": "Ukraine latest: Russia's Belgorod region under shelling, authorities tell residents - Nikkei Asia",
+            "description": "Dam in southern Ukraine is blown, flooding war zone; Wagner chief calls Moscow's claim of huge Ukraine losses 'fiction'",
+            "url": "https://asia.nikkei.com/Politics/Ukraine-war/Ukraine-war-Free-to-read/Ukraine-latest-Russia-s-Belgorod-region-under-shelling-authorities-tell-residents",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F0%252F7%252F5%252F45995703-1-eng-GB%252F2023-06-05T132235Z_1317585576_RC21D1ASX2KF_RTRMADP_3_UKRAINE-CRISIS-FREEDOM-OF-RUSSIA-LEGION.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+            "publishedAt": "2023-06-06T08:50:23Z",
+            "content": "The war that began with Russia's invasion of Ukraine in February 2022 has passed a grim one-year milestone, with mounting military and civilian deaths.\r\nAs fighting rages in and around Bakhmut, Weste… [+39382 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Aaron Katersky",
+            "title": "Trump opposes Michael Cohen's attempt to dismiss lawsuit alleging breach of fiduciary duty - ABC News",
+            "description": "Cohen cast it as an attempt to silence \"an important government witness.\"",
+            "url": "https://abcnews.go.com/US/trump-michael-cohen-dismiss-lawsuit-breach-fiduciary-duty/story?id=99861686",
+            "urlToImage": "https://s.abcnews.com/images/US/michael-cohen-abc-mz-03-230317_1679055893587_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-06-06T08:31:42Z",
+            "content": "Former President Trump on Monday opposed an attempt by his former fixer Michael Cohen to dismiss a lawsuit that accused Cohen of breaching his fiduciary duty to Trump \"by spreading falsehoods\" about … [+1081 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Cosmic Smoke Signals: James Webb Telescope Discovers Organic Molecules in Distant Galaxy - SciTechDaily",
+            "description": "Astronomers have found complex organic molecules in a galaxy more than 12 billion light-years away from Earth. Using NASA’s James Webb Space Telescope, an international team of astronomers detected complex organic molecules, akin to Earth's smoke, soot, and s…",
+            "url": "https://scitechdaily.com/cosmic-smoke-signals-james-webb-telescope-discovers-organic-molecules-in-distant-galaxy/",
+            "urlToImage": "https://scitechdaily.com/images/Complex-Organic-Molecules-Galaxy.jpg",
+            "publishedAt": "2023-06-06T08:21:37Z",
+            "content": "ByTexas A&amp;M UniversityJune 6, 2023\r\nAstronomers using the Webb telescope discovered evidence of complex organic molecules similar to smoke or smog in the distant galaxy shown here. The galaxy, mo… [+9306 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "R.j. Rico",
+            "title": "'Stop Cop City' activists pack Atlanta City Hall ahead of crucial vote - The Associated Press",
+            "description": "ATLANTA (AP) — Hundreds of activists gathered to speak Monday at Atlanta’s City Hall ahead of a council vote over whether to approve tens of millions in public funding for the construction of a proposed police and firefighter training center that activists de…",
+            "url": "https://apnews.com/article/cop-city-vote-atlanta-city-council-d782604c15874e441570654ea362e0ef",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8d186538f483467e9cac1ec8fcca2f87/3000.webp",
+            "publishedAt": "2023-06-06T08:02:42Z",
+            "content": "ATLANTA (AP) Hundreds of activists gathered to speak Monday at Atlantas City Hall ahead of a council vote over whether to approve tens of millions in public funding for the construction of a proposed… [+5265 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall",
+            "title": "Apple WWDC 2023: Everything announced from the Apple Vision Pro headset to iOS 17, MacBook Air and more - TechCrunch",
+            "description": "Sit back and relax while the team runs down all of the biggest Apple WWDC 2023 keynote news in an easy-to-skim digest.",
+            "url": "https://techcrunch.com/2023/06/05/apple-wwdc-2023-everything-announced-so-far-including-ios-17-macbook-air-and-more/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/wwdc-2023-cook-rainbow-1.jpg?resize=1200,675",
+            "publishedAt": "2023-06-06T07:30:00Z",
+            "content": "Its WWDC 2023 keynote time! Each year Apple kicks off its Worldwide Developer Conference with a few hours of just straight announcements, generally covering things from OS to watchOS to new and updat… [+9287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Apple's entry into VR with its new headset is a 'watershed moment,' say top industry execs - CNBC",
+            "description": "Cher Wang, Taiwanese tech giant HTC's CEO, told CNBC that she sees Apple's move as a validation for the industry, calling it a \"watershed moment.\"",
+            "url": "https://www.cnbc.com/2023/06/06/apples-entry-into-vr-is-a-watershed-moment-say-top-industry-execs.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107251421-1686005660105-gettyimages-1258467649-AFP_33H23NP.jpeg?v=1686035722&w=1920&h=1080",
+            "publishedAt": "2023-06-06T07:15:22Z",
+            "content": "Apple's mixed-reality headset debut marks a \"watershed moment\" for the industry, said the executives of some major players in the augmented and virtual reality space as they welcomed competition for … [+5062 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Jeff Zillgitt",
+            "title": "Heat, forged in adversity, show Nuggets NBA Finals won't be walkover: 'Find a way to win' - USA TODAY",
+            "description": "The Heat's Game 2 victory marked their seventh victory in the 2023 NBA Playoffs after trailing by at least 10 points.",
+            "url": "https://www.usatoday.com/story/sports/nba/columnist/jeff-zillgitt/2023/06/05/heat-jimmy-butler-show-nuggets-nba-finals-wont-be-walkover/70287459007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/05/USAT/c6ff14fa-8e9d-4e5c-96b2-d34882292d89-USATSI_20829088.jpg?crop=1742,980,x59,y84&width=1742&height=980&format=pjpg&auto=webp",
+            "publishedAt": "2023-06-06T07:07:29Z",
+            "content": "DENVER The Miami Heat are forged in adversity.\r\nAnd discipline. And smarts. And hard work. And experience.\r\nTheres no other way a No. 8 seed reaches the NBA Finals.\r\nTheres no other way a No. 8 seed … [+3932 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Stocks hold tight ranges as traders eye Fed pause prospects - Reuters",
+            "description": "Asian stocks nudged higher on Tuesday as soft U.S. economic data reinforced expectations that the Federal Reserve may skip an interest rate hike when it meets next week.",
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1pix-2023-06-06/",
+            "urlToImage": "https://www.reuters.com/resizer/TecZrcd05yTPo4jAAO_lJSYqDjA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2SKSZJEZINOLXEPBMWXE7ZIPIY.jpg",
+            "publishedAt": "2023-06-06T06:19:00Z",
+            "content": "SINGAPORE, June 6 (Reuters) - Asian stocks nudged higher on Tuesday as soft U.S. economic data reinforced expectations that the Federal Reserve may skip an interest rate hike when it meets next week.… [+3897 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Retirement in France vs. US: In wake of strikes, who has it better? - USA TODAY",
+            "description": "President Emmanuel Macron recently forced through a plan to raise the retirement age in France from 62 to 64.",
+            "url": "https://www.usatoday.com/story/news/world/2023/06/06/retirement-age-france-strikes-is-us-better/70267693007/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/04/07/USAT/89323d41-f1e4-4124-873e-9462b31d536d-AFP_AFP_33CR4EC.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200",
+            "publishedAt": "2023-06-06T06:02:39Z",
+            "content": "They've set fire to cars. Clashed with police. Let thousands of tons of rotting garbage pile up in the streets French workers, activists, students and political opposition parties on Tuesday will tak… [+6045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Mavericks hope to re-sign Kyrie Irving and build trade package around No. 10 pick, per report - CBS Sports",
+            "description": "Despite rumors, the chances of Irving luring LeBron James to Dallas are slim",
+            "url": "https://www.cbssports.com/nba/news/mavericks-hope-to-re-sign-kyrie-irving-and-build-trade-package-around-no-10-pick-per-report/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/06/ad5cf245-c871-42b7-913d-ffc9f8b0b7dc/thumbnail/1200x675/c2a688d885f7a1bb8dd9c03b7a0b36a2/kyrie-getty.png",
+            "publishedAt": "2023-06-06T05:25:00Z",
+            "content": "On Monday afternoon, Shams Charania reported that Kyrie Irving has reached out to LeBron James to see if the Lakers' star would be interested in joining him on the Dallas Mavericks. \r\nFor myriad reas… [+2361 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Erica Lamberg",
+            "title": "On this day in history, June 6, 1944, US and Allies invade Normandy in greatest military invasion in history - Fox News",
+            "description": "The D-Day operation, on this day in history, June 6, 1944, was the largest amphibious invasion in military history as Allied troops assaulted the beaches of Normandy, France.",
+            "url": "https://www.foxnews.com/lifestyle/this-day-history-june-6-1944-us-allies-invade-normandy-greatest-military-invasion-history",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/GettyImages-871688312.jpg",
+            "publishedAt": "2023-06-06T04:02:00Z",
+            "content": "On this day in history, the D-Day operation of June 6, 1944, brought together the land, air and sea forces of the Allied armies in what became known as the largest amphibious invasion in military his… [+6082 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Marnie Hunter, Forrest Brown",
+            "title": "These chefs and restaurants are the 2023 James Beard Award winners - CNN",
+            "description": "The US restaurant industry’s highest honors were awarded Monday night in Chicago.",
+            "url": "https://www.cnn.com/travel/article/james-beard-award-winners-2023/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605215919-03-james-beard-awards-outstanding-chef-rob-rubba.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T03:24:00Z",
+            "content": "A Philadelphia restaurant with an eight-course tasting menu, a Haitian restaurant in the Pacific Northwest and a chef who focuses on a sustainable menu of oysters and wild vegetables in Washington, D… [+9835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Stanley Cup Final Game 2 Highlights | Panthers vs. Golden Knights - June 5, 2023 - SPORTSNET",
+            "description": "In a game with 148 penalty minutes, Matthew Tkachuk racked up 22 of those, Jonathan Marchessault and Brett Howden took advantage and each scored a pair of go...",
+            "url": "https://www.youtube.com/watch?v=HwORr6LDr6s",
+            "urlToImage": "https://i.ytimg.com/vi/HwORr6LDr6s/maxresdefault.jpg",
+            "publishedAt": "2023-06-06T03:15:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Holly Yan,Paul P. Murphy,Michelle Krupa",
+            "title": "Search and rescue efforts end at the site of the Iowa apartment building collapse after remains of 3 victims are recovered from the rubble, Davenport officials say - CNN",
+            "description": "The search and rescue operation at a partially collapsed six-story apartment building in Davenport, Iowa officially ended Monday after the remains of three people were recovered, officials said.",
+            "url": "https://www.cnn.com/2023/06/05/us/davenport-iowa-building-collapse-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230605095409-davenport-iowa-apartment-collapse-file-060423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-06T03:00:00Z",
+            "content": "The search and rescue operation at a partially collapsed six-story apartment building in Davenport, Iowa officially ended Monday after the remains of three people were recovered, officials said. \r\nTh… [+5027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Southern California"
+            },
+            "author": "Elyse Dupre | E! News",
+            "title": "Anna Shay, ‘Bling Empire' star, dead at 62 after stroke - NBC Southern California",
+            "description": "\"Bling Empire\" star Anna Shay died of a stroke at the age of 62, her family announced on Monday. Here's what to know.",
+            "url": "https://www.nbclosangeles.com/entertainment/entertainment-news/bling-empire-anna-shay-dead-at-62/3165025/",
+            "urlToImage": "https://media.nbclosangeles.com/2023/06/Anna-Shay.png?resize=1200%2C675&quality=85&strip=all",
+            "publishedAt": "2023-06-06T02:37:29Z",
+            "content": "The reality TV world has lost a star.\r\nAnna Shay, of \"Bling Empire\" has died at the age of 62 following a stroke, her family has confirmed.\r\n\"It saddens our hearts to announce that Anna Shay, a lovin… [+1435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Steve Serby",
+            "title": "DeAndre Hopkins isn't right fit for what current Giants need to take next step - New York Post ",
+            "description": "There is always a right time and a right place for the right player, and at the right price, of course.",
+            "url": "https://nypost.com/2023/06/05/deandre-hopkins-isnt-right-fit-for-what-current-giants-need/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/06/newspress-collage-27359184-1686017130900.jpg?quality=75&strip=all&1686002758&w=1024",
+            "publishedAt": "2023-06-06T02:31:00Z",
+            "content": "There is always a right time and a right place for the right player, and at the right price, of course. \r\nThe Giants should pass on DeAndre Hopkins. \r\nLet someone elses eyes be bigger than his stomac… [+4015 chars]"
+        }
+    ]
+}
