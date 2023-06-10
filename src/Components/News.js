@@ -7,7 +7,7 @@ export class News extends Component {
 
     static defaultProps = {
         country: "in",
-        pageSize: 5,
+        pageSize: 10,
         category: "general"
     }
 
@@ -17,8 +17,8 @@ export class News extends Component {
         category: PropTypes.string
     }
 
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
 
         this.state = {
             articles: [],
@@ -26,6 +26,8 @@ export class News extends Component {
             page: 1,
             totalItems: 0
         }
+
+        document.title = `Newsify - ${this.props.category[0].toUpperCase() + this.props.category.substring(1)}`
     }
 
     componentDidMount() {
