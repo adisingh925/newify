@@ -1,9 +1,7 @@
-import PropTypes from 'prop-types'
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 
 export class NavBar extends Component {
-  static propTypes = {}
 
   render() {
     return (
