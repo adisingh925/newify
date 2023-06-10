@@ -1,8 +1,21 @@
 import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner'
+import PropTypes from 'prop-types'
 
 export class News extends Component {
+
+    static defaultProps = {
+        country : "in",
+        pageSize : 5,
+        category : "general"
+    }
+
+    static propTypes = {
+        country : PropTypes.string,
+        pageSize : PropTypes.number,
+        category : PropTypes.string
+    }
 
     constructor() {
         super();
@@ -31,7 +44,7 @@ export class News extends Component {
 
     fetchData = async (operation) => {
         console.log(this.state.page)
-        let url = `https://newsapi.org/v2/top-headlines?country=in&apiKey=d56ab885e81741e191851cc013eb2c5f&page=${this.state.page + operation}&pagesize=${this.props.pageSize}`
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=d56ab885e81741e191851cc013eb2c5f&page=${this.state.page + operation}&pagesize=${this.props.pageSize}`
         this.setState({ loading: true})
         let data = await fetch(url)
         let parsedData = await data.json()
@@ -52,8 +65,8 @@ export class News extends Component {
                     })}
                 </div>
                 <div className="container d-flex justify-content-between">
-                    <button type="button" disabled={this.state.page <= 1} onClick={this.prevButtonClick} className="btn btn-dark mx-3 my-3">&larr; Previous</button>
-                    <button type="button" disabled={(this.state.page + 1) > Math.ceil(this.state.totalItems / this.props.pageSize)} onClick={this.nextButtonClick} className="btn btn-dark mx-3 my-3">Next &rarr;</button>
+                    <button type="button" disabled={this.state.page <= 1} onClick={this.prevButtonClick} className="btn btn-dark my-3">&larr; Previous</button>
+                    <button type="button" disabled={(this.state.page + 1) > Math.ceil(this.state.totalItems / this.props.pageSize)} onClick={this.nextButtonClick} className="btn btn-dark my-3">Next &rarr;</button>
                 </div>
             </div>
         )
